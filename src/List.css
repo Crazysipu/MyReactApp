@@ -1,0 +1,21 @@
+.item{
+    display: flex;
+   justify-content: space-between;
+   align-items: center; 
+   margin:10px;
+   border: 1px solid rgb(29, 23, 23);
+   border-radius: 20px;
+   padding: 10px;
+   background: rgb(204, 50, 227);
+   width: 200px;
+   height: 20px;
+}
+.item p{
+    margin: 0;
+    font-size: 18px;
+
+}
+.item button{
+    border-radius: 20px;
+
+}
